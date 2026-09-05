@@ -44,8 +44,8 @@ pip install sentence-transformers scikit-learn openpyxl nltk
 
 ### Usage
 
-Place `QA_Assessment.xlsx` (with `Sources` and `Transcript`
-sheets) next to the script and run:
+Place `QA_Assessment.xlsx` (with `Sources` and `Transcript` sheets) next to the
+script and run:
 
 ```
 python citation-grounding-check.py
